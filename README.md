@@ -29,3 +29,6 @@
 │ Container │   │ Container │
 │  Instance │   │ Instance  │◄───────────────   Runtime instances of container-images
 └───────────┘   └───────────┘
+
+
+The above diagram outlines the Docker Architecture.
